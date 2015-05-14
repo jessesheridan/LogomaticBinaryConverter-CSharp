@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logomaticBinaryConverter", "logomaticBinaryConverter\logomaticBinaryConverter.csproj", "{BCAECDD9-5FAB-4DA0-BF73-C060E17787B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LogomaticBinaryConverterSetup", "LogomaticBinaryConverterSetup\LogomaticBinaryConverterSetup.vdproj", "{ECB88DE3-F7BF-4EFE-9CC0-25FE7C2BD897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCAECDD9-5FAB-4DA0-BF73-C060E17787B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAECDD9-5FAB-4DA0-BF73-C060E17787B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAECDD9-5FAB-4DA0-BF73-C060E17787B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAECDD9-5FAB-4DA0-BF73-C060E17787B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB88DE3-F7BF-4EFE-9CC0-25FE7C2BD897}.Debug|Any CPU.ActiveCfg = Debug
+		{ECB88DE3-F7BF-4EFE-9CC0-25FE7C2BD897}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
