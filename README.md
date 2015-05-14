@@ -1,5 +1,6 @@
 # LogomaticBinaryConverter-CSharp
 Project I created in C# for converting the binary file that the Logomatic creates in to a comma seperated value file.
+
 Example output:
 
 1,421,425,417,402,418,408
